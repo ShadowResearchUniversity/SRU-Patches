@@ -1,0 +1,15 @@
+@nsobid-476298E4FA079B5C8D4E9056A2F652EC
+
+@flag offset_shift 0x100
+
+/ ********************************************************************
+/
+/ (c) 2018 Shadow Research University
+/ Licensed under GPLv3, please visit the following URL for more info:
+/ https://www.gnu.org/licenses/gpl-3.0.en.html
+/
+/ ********************************************************************
+
+// Fly [kgg]
+@enabled
+00E77400 C0035FD6
