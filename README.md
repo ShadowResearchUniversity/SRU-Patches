@@ -9,6 +9,7 @@ This repository contains patches by SRU for the ipswitch homebrew.
 * kgg
 * Khangaroo
 * OatmealDome
+* Shadów
 
 ********************************************************************
 ## **Usage Guide**
