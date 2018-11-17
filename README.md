@@ -1,6 +1,6 @@
 # Splatoon 2 patches by SRU
 
-For support, join our Discord server: <a href="https://discord.gg/rdx6Bt8"><img src="https://discordapp.com/api/guilds/501503149173899264/widget.png?style=shield" /></a>
+For support, join our Discord server: <a href="https://discord.gg/Fkcat7j"><img src="https://discordapp.com/api/guilds/484900235093475328/widget.png?style=shield" /></a>
 
 This repository contains patches by SRU for the ipswitch homebrew.
 
