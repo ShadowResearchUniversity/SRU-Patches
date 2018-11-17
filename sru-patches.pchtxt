@@ -14,3 +14,8 @@
 // Fly [kgg]
 @enabled
 00E77400 C0035FD6
+
+// Rapidfire Bombs [Zewia]
+@enabled
+00F26F34 11000014
+00F26F78 20008052
