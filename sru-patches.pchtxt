@@ -13,12 +13,16 @@
 
 // Fly [kgg]
 @enabled
+019A1548 796F7500
 00E77400 C0035FD6
+019A1428 66675636
 
 // Rapidfire Bombs [Zewia]
 @enabled
 00F26F34 11000014
+019A1428 66675636
 00F26F78 20008052
+019A1548 796F7500
 
 // Rank Modifier [Zewia]
 @enabled
