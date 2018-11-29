@@ -29,3 +29,7 @@
 // No Deathzones [Kgg]
 @enabled
 00F9C434 C0035FD6
+
+// No Water [Zewia]
+@enabled
+00E817C4 23000014
