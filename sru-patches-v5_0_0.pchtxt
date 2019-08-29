@@ -1,0 +1,35 @@
+@nsobid-26D72E09076C3B11F53CC37E86960692
+# Splatoon 2 5.0.0
+
+@flag offset_shift 0x100
+
+/ ********************************************************************
+/
+/ (c) 2018 Shadow Research University
+/ Licensed under GPLv3, please visit the following URL for more info:
+/ https://www.gnu.org/licenses/gpl-3.0.en.html
+/
+/ ********************************************************************
+
+// Fly [kgg]
+@enabled
+00FF0740 C0035FD6
+
+// Rapidfire Bombs [Zewia]
+@enabled
+010A45DC 11000014
+010A4620 20008052
+
+// Rank Modifier [Zewia]
+@enabled
+002F7994 80088052C0035FD6
+002F79AC 00028052C0035FD6
+002F79A0 20A78052C0035FD6
+
+// No Deathzones [Kgg]
+@enabled
+0111C404 C0035FD6
+
+// No Water [Zewia]
+@enabled
+00FFAC9C 23000014
